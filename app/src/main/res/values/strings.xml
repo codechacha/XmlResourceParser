@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XmlResourceParser</string>
+
+    <string name="site_title_1">How to get stroage size</string>
+    <string name="site_title_2">Android Q, Scoped Storage</string>
+    <string name="site_title_3">How to parse JSON in android</string>
+</resources>

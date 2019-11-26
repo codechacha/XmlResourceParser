@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codechacha
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <site app:title="@string/site_title_1"
+          app:url="https://codechacha.com/ko/get-free-and-total-size-of-volumes-in-android/"/>
+
+    <site app:title="@string/site_title_2"
+          app:url="https://codechacha.com/ko/android-q-scoped-storage/"/>
+
+    <site app:title="@string/site_title_3"
+          app:url="https://codechacha.com/ko/how-to-parse-json-in-android/"/>
+
+    <site app:title="site_title_4"
+          app:url="https://codechacha.com/ko/how-to-parse-json-in-android/"/>
+
+</codechacha>
